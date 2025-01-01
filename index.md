@@ -6,3 +6,6 @@ To save a file, simply type the following command:
 ```bash
 :w !sudo tee %
 ```
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
